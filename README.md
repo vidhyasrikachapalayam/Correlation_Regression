@@ -20,10 +20,16 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
+NAME:vidhyasri.k
+REG NO:212222230170
+
 
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
+# Output :
+![image](https://github.com/vidhyasrikachapalayam/Correlation_Regression/assets/119477817/26cf4fc2-a9e0-4654-961a-7374361b88c0)
+# Result:
+Thus we have analysed the given data using coeffificient of correlation and regression line.
 
-# Result
 
-# Output 
+
